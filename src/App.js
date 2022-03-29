@@ -11,7 +11,7 @@ import {
   FormControl,
   Button,
   Row,
-  Col,
+  Col,n
 } from "react-bootstrap";
 
 import "./component/Menu";
